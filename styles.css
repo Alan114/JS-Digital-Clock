@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(61, 60, 60);
+}
+
+.clock {
+  text-align: center;
+  margin: 10rem auto;
+  color: orangered;
+  font-family: "Orbitron", sans-serif;
+  font-size: 4rem;
+  font-weight: 900;
+}
